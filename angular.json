@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AdminWebApp"
+    }
+  },
+  "defaultProject": "AdminWebApp",
+  "cli": {
+    "analytics": "16c6d0a7-3c46-410c-9075-c2978d510e17"
+  }
 }
